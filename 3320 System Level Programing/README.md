@@ -14,7 +14,7 @@ Repo Overview 📂
 
 Technologies 🛠️ 
 
--	C 🕹️: The language used thought the lass
+-	C 🕹️: The language used thought the class
   
 -	Unix 📺: C is a language that works best through the terminal and due to this there was a large focus on Unix commands
 
