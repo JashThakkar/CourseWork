@@ -7,7 +7,7 @@ Course Overview 📘
 
 Repo Overview 📂
 
-- Labs 🧪: Shorter / smaller scale programs
+- Short 🧪: Shorter / smaller scale programs / projects
 - Notables 🎁: Homework and lab projects that I found cool / impressive. (All Homeworks are in here)
 
 
